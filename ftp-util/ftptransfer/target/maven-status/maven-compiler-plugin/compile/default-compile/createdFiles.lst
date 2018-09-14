@@ -1,0 +1,13 @@
+com\cmos\task\TaskManager.class
+com\cmos\util\UploadUtil.class
+com\cmos\task\UploadTask.class
+Adapter\Qisr.class
+com\cmos\task\DownloadTask.class
+com\cmos\util\QueryftpFiles.class
+com\cmos\util\DownloadUtil.class
+com\cmos\audiotransfer\ISAEngine.class
+com\cmos\util\PropertyUtil.class
+com\cmos\audiotransfer\QisrBasedISAEngine.class
+com\cmos\task\QueryFileTask.class
+com\cmos\task\TransferTask.class
+com\cmos\util\TransferUtil.class

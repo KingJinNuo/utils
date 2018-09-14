@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="transfer">
+    <output-path>$PROJECT_DIR$/out/artifacts/transfer</output-path>
+    <root id="archive" name="transfer.jar" />
+  </artifact>
+</component>
